@@ -13,4 +13,8 @@
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Isen.DotNet.Library\Isen.DotNet.Library.csproj" />
+  </ItemGroup>
+
 </Project>
