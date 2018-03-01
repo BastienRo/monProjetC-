@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isen.DotNet.Library", "Isen.DotNet.Library\Isen.DotNet.Library.csproj", "{2A24C5DF-C0AD-4E62-85AF-319AD12A42C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isen.DotNet.ConsoleApp", "Isen.DotNet.ConsoleApp\Isen.DotNet.ConsoleApp.csproj", "{5A9CFB1E-2B02-47AC-A1E3-FB33FC47EAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isen.DotNet.Tests", "Isen.DotNet.Tests\Isen.DotNet.Tests.csproj", "{98FAEFAC-D6F0-4DB2-94F0-4E7EF0C83EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A24C5DF-C0AD-4E62-85AF-319AD12A42C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A24C5DF-C0AD-4E62-85AF-319AD12A42C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A24C5DF-C0AD-4E62-85AF-319AD12A42C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A24C5DF-C0AD-4E62-85AF-319AD12A42C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9CFB1E-2B02-47AC-A1E3-FB33FC47EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9CFB1E-2B02-47AC-A1E3-FB33FC47EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9CFB1E-2B02-47AC-A1E3-FB33FC47EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9CFB1E-2B02-47AC-A1E3-FB33FC47EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FAEFAC-D6F0-4DB2-94F0-4E7EF0C83EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FAEFAC-D6F0-4DB2-94F0-4E7EF0C83EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FAEFAC-D6F0-4DB2-94F0-4E7EF0C83EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FAEFAC-D6F0-4DB2-94F0-4E7EF0C83EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
